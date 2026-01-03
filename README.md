@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm Samson P. Mwang'onda</h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+# Hi 👋, I'm Samson P. Mwang'onda
+
+### A Passionate MERN Stack Developer
 
 - 🔭 I’m currently working on **different projects**
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB**
 - 📫 How to reach me: **samsonmwangonda205@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Unaweza kuongeza links zako za LinkedIn, Twitter, GitHub -->
-</p>
+### Connect with me:
+<!-- Add your social links here (LinkedIn, Twitter, GitHub) -->
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
